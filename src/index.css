@@ -11,3 +11,53 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.div-1{
+  margin: 100px;
+}
+.tab-list{
+  display: flex;
+  
+}
+.card{
+
+}
+.box{
+  margin: 25px;
+  width: 300px;
+  height: 300px;
+  border: none;
+  box-shadow: none;
+  
+}
+.box-1{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  background-color: rgb(251, 251, 251);
+}
+.name-box{
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+.price-box-1{
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+}
+.price-box-2{
+  display: flex;
+  justify-content: center;
+}
+.btn{
+  background-color: white;
+  border-color: blue;
+  color: blue;
+  border-radius: 5px;
+  padding: 15px;
+  padding-right: 100px;
+  padding-left: 100px;
+  margin-left: 20px;
+  margin-top: 30px;
+}
